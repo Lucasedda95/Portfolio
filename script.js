@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // 4. Hero Section Typing Effect
-  const words = ['Experiences', 'Interfaces', 'Dashboards', 'Websites'];
+  const words = ['Portofolio 2026', 'Strategies', 'Campaigns', 'Growth'];
   let wordIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
